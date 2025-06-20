@@ -159,6 +159,7 @@ C:\CityCore\CityCore.Api\obj\Debug\net9.0\CityCore.Api.AssemblyInfo.cs
 C:\CityCore\CityCore.Api\obj\Debug\net9.0\CityCore.Api.csproj.CoreCompileInputs.cache
 C:\CityCore\CityCore.Api\obj\Debug\net9.0\CityCore.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\CityCore\CityCore.Api\obj\Debug\net9.0\CityCore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\CityCore\CityCore.Api\obj\Debug\net9.0\CityCore.Api.sourcelink.json
 C:\CityCore\CityCore.Api\obj\Debug\net9.0\scopedcss\bundle\CityCore.Api.styles.css
 C:\CityCore\CityCore.Api\obj\Debug\net9.0\staticwebassets.build.json
 C:\CityCore\CityCore.Api\obj\Debug\net9.0\staticwebassets.development.json
