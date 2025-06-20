@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1NPw4CUTPgEmjDqEjKseUMZwDbX3zTSkKQQuARmzZtM=",
+  "Source": "CityCore.Api",
+  "BasePath": "_content/CityCore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
